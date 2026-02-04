@@ -16,9 +16,9 @@
   "commands": [
     {
       "name": "random",
-      "title": "random",
-      "description": "Show the random port and copy to clipboard",
-      "mode": "no-view"
+      "title": "Random Port",
+      "description": "Show a random port number and copy it to the clipboard",
+      "mode": "view"
     }
   ],
   "dependencies": {
