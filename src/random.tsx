@@ -20,7 +20,7 @@ export default function Command() {
     ``,
     `**Actions**`,
     ``,
-    `- Press **Return** to copy`,
+    `- Press **Return ↩** to copy`,
     `- Press **⌘ R** to regenerate`,
   ].join("\n");
 
