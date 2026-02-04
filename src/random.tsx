@@ -12,7 +12,7 @@ export default function Command() {
   const [port, setPort] = useState(() => generatePort());
 
   const markdown = [
-    `# \`${port}\``,
+    `# ${port}`,
     ``,
     `## Port Randomizer`,
     ``,
